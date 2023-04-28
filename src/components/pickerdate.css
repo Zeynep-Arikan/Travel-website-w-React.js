@@ -1,0 +1,17 @@
+.datepicker{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.25);  
+    width: 100%;
+    height: 60px;
+    border-radius: 13px;
+}
+.datepicker .yolculuk-nereye{
+    text-decoration: none;
+    color:#BBD6B8 ;
+    font-size: 1rem;
+    padding-right: 10px;
+    
+}
